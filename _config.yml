@@ -1,0 +1,109 @@
+typography_spectrum: 0.1612194596894897
+color:
+  brandStrength: 0.4316667558350554
+  lightness: 0.18634155970638488
+  saturation: 0.05616878674061287
+  rhythmicContrast: 0.529135885821139
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+layout_spectrum: 0.8027484051989263
+author:
+  name: LG Larsen
+  email: l.g.samicrafts@gmail.com
+  url: 'https://thegrid.ai/leather-colors/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/304617d2-3d1e-491c-9001-fd47d7751b08.jpg
+name: Leather Colors
+navigation:
+  - name: LGsamiCrafts
+    url: 'https://thegrid.ai/lgsamicrafts/'
+    type: external
+  - name: White Black to Gray
+    id: 0ba10b2f-90e2-4a50-9cad-5f73e7d96eae
+    type: content
+  - name: Dark antique Brown
+    id: de124aac-bf1d-4088-9536-a9663205d3e1
+    type: content
+  - name: Reddish Brown
+    id: fdb090c9-e384-43a1-86ac-e1a1a59727b4
+    type: content
+  - name: 'Oxblood '
+    id: 66b21ee8-84ac-4125-82da-f835e2be7c52
+    type: content
+  - name: Light Brown Beige
+    id: 5cdd2133-8312-447e-beee-d80f7a398765
+    type: content
+  - name: Latte Beige Cream
+    id: 5e035a34-2db1-45d2-ac98-ee41014f7361
+    type: content
+  - name: Gold Silver Copper
+    id: 84e4ff70-7ddb-4b0d-b641-428ad9dd36fa
+    type: content
+  - name: Metallic & Pearlized
+    id: 010e6198-d6ce-4020-abed-d63477ff4628
+    type: content
+  - name: Brown Shades
+    id: 0ca0e4e9-c4e4-47b1-98b4-640cf50e2a25
+    type: content
+  - name: Olive Green
+    id: 83d21d30-d477-4bde-ac36-d79a61942322
+    type: content
+  - name: Green
+    id: 92dba23a-887f-4589-988f-d47c9ea18618
+    type: content
+  - name: Aqua to Turquoise
+    id: d45d3a8e-f360-4cd1-8a40-5d17f3974063
+    type: content
+  - name: Blue
+    id: ebc85082-f97d-4cb5-92b3-52a2ad3cd44a
+    type: content
+  - name: Lavender Violet to Purple
+    id: 282ba5f7-6ae7-447a-8ce8-d3f136cf2fee
+    type: content
+  - name: Rose Pink Cerise
+    id: ee42d976-1bb0-432c-8dcc-1e263a8e479a
+    type: content
+  - name: Red Jellow to Orange
+    id: 2c466205-5db2-4f16-a2f8-84032a72769d
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/de997651-73b0-4489-83a1-0ae0d891935a.jpg
+title: LGsamiCrafts
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c72de296-249c-4737-9221-a623f37a6f52.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/c72de296-249c-4737-9221-a623f37a6f52.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Choose from a variety of Skin & Leather colors
+purpose:
+  - type: contact
+    url: 'mailto:l.g.samicrafts@gmail.com'
+    label: Contact
+  - type: external
+    url: 'https://thegrid.ai/lgsamicrafts/'
+    label: enter LGsamiCrafts
+github: true
