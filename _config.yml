@@ -55,11 +55,11 @@ navigation:
   - name: Green
     id: 92dba23a-887f-4589-988f-d47c9ea18618
     type: content
-  - name: Aqua to Turquoise
-    id: d45d3a8e-f360-4cd1-8a40-5d17f3974063
-    type: content
   - name: Blue
     id: ebc85082-f97d-4cb5-92b3-52a2ad3cd44a
+    type: content
+  - name: Aqua to Turquoise
+    id: d45d3a8e-f360-4cd1-8a40-5d17f3974063
     type: content
   - name: Lavender Violet to Purple
     id: 282ba5f7-6ae7-447a-8ce8-d3f136cf2fee
