@@ -23,14 +23,14 @@ navigation:
   - name: Return to LGsamiCrafts
     url: 'https://thegrid.ai/lgsamicrafts/'
     type: external
+  - name: Contact
+    id: a7ad57b8-724c-4726-99dd-c8f32fd79c1c
+    type: content
   - name: White Black to Gray
     id: 0ba10b2f-90e2-4a50-9cad-5f73e7d96eae
     type: content
   - name: Dark antique Brown
     id: de124aac-bf1d-4088-9536-a9663205d3e1
-    type: content
-  - name: Contact
-    id: a7ad57b8-724c-4726-99dd-c8f32fd79c1c
     type: content
   - name: Reddish Brown
     id: fdb090c9-e384-43a1-86ac-e1a1a59727b4
