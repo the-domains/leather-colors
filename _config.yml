@@ -1,16 +1,17 @@
-typography_spectrum: 0.1612194596894897
+layout_spectrum: 0.15489107793482887
+typography_spectrum: 0.6439057568716126
 color:
-  brandStrength: 0.4316667558350554
-  lightness: 0.18634155970638488
-  saturation: 0.05616878674061287
-  rhythmicContrast: 0.529135885821139
+  brandStrength: 0.4352514971800997
+  lightness: 0.18968277683518459
+  saturation: 0.05578568650105286
+  rhythmicContrast: 0.9962125070449334
   brandColors:
     - '#73603D'
     - '#BF8A49'
     - '#F2CA80'
     - '#5E5A59'
     - '#0D0D0D'
-layout_spectrum: 0.8027484051989263
+github: true
 author:
   name: LG Larsen
   email: l.g.samicrafts@gmail.com
@@ -19,9 +20,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/304617d2-3d1e-491c-9001-fd47d7751b08.jpg
 name: Leather Colors
 navigation:
-  - name: LGsamiCrafts
-    url: 'https://thegrid.ai/lgsamicrafts/'
-    type: external
   - name: White Black to Gray
     id: 0ba10b2f-90e2-4a50-9cad-5f73e7d96eae
     type: content
@@ -61,6 +59,9 @@ navigation:
   - name: Aqua to Turquoise
     id: d45d3a8e-f360-4cd1-8a40-5d17f3974063
     type: content
+  - name: LGsamiCrafts
+    url: 'https://thegrid.ai/lgsamicrafts/'
+    type: external
   - name: Lavender Violet to Purple
     id: 282ba5f7-6ae7-447a-8ce8-d3f136cf2fee
     type: content
@@ -69,6 +70,9 @@ navigation:
     type: content
   - name: Red Jellow to Orange
     id: 2c466205-5db2-4f16-a2f8-84032a72769d
+    type: content
+  - name: Contact
+    id: a7ad57b8-724c-4726-99dd-c8f32fd79c1c
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/de997651-73b0-4489-83a1-0ae0d891935a.jpg
@@ -100,10 +104,6 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Choose from a variety of Skin & Leather colors
 purpose:
-  - type: contact
-    url: 'mailto:l.g.samicrafts@gmail.com'
+  - type: internal
     label: Contact
-  - type: external
-    url: 'https://thegrid.ai/lgsamicrafts/'
-    label: enter LGsamiCrafts
-github: true
+    item: a7ad57b8-724c-4726-99dd-c8f32fd79c1c
