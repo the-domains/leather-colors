@@ -23,6 +23,9 @@ navigation:
   - name: White Black to Gray
     id: 0ba10b2f-90e2-4a50-9cad-5f73e7d96eae
     type: content
+  - name: LGsamiCrafts
+    url: 'https://thegrid.ai/lgsamicrafts/'
+    type: external
   - name: Dark antique Brown
     id: de124aac-bf1d-4088-9536-a9663205d3e1
     type: content
@@ -50,9 +53,6 @@ navigation:
   - name: Olive Green
     id: 83d21d30-d477-4bde-ac36-d79a61942322
     type: content
-  - name: LGsamiCrafts
-    url: 'https://thegrid.ai/lgsamicrafts/'
-    type: external
   - name: Green
     id: 92dba23a-887f-4589-988f-d47c9ea18618
     type: content
