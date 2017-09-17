@@ -110,3 +110,6 @@ purpose:
   - type: external
     url: 'https://thegrid.ai/lgsamicrafts/'
     label: Return to LGsamiCrafts
+opengraph:
+  appId: 'https://www.facebook.com/CraftMii/'
+  type: Fan Page
