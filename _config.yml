@@ -38,6 +38,9 @@ navigation:
   - name: Light Brown Beige
     id: 5cdd2133-8312-447e-beee-d80f7a398765
     type: content
+  - name: Contact
+    id: a7ad57b8-724c-4726-99dd-c8f32fd79c1c
+    type: content
   - name: Latte Beige Cream
     id: 5e035a34-2db1-45d2-ac98-ee41014f7361
     type: content
@@ -49,9 +52,6 @@ navigation:
     type: content
   - name: Brown Shades
     id: 0ca0e4e9-c4e4-47b1-98b4-640cf50e2a25
-    type: content
-  - name: Contact
-    id: a7ad57b8-724c-4726-99dd-c8f32fd79c1c
     type: content
   - name: Olive Green
     id: 83d21d30-d477-4bde-ac36-d79a61942322
