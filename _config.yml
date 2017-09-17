@@ -50,6 +50,9 @@ navigation:
   - name: Olive Green
     id: 83d21d30-d477-4bde-ac36-d79a61942322
     type: content
+  - name: LGsamiCrafts
+    url: 'https://thegrid.ai/lgsamicrafts/'
+    type: external
   - name: Green
     id: 92dba23a-887f-4589-988f-d47c9ea18618
     type: content
@@ -59,9 +62,6 @@ navigation:
   - name: Aqua to Turquoise
     id: d45d3a8e-f360-4cd1-8a40-5d17f3974063
     type: content
-  - name: LGsamiCrafts
-    url: 'https://thegrid.ai/lgsamicrafts/'
-    type: external
   - name: Lavender Violet to Purple
     id: 282ba5f7-6ae7-447a-8ce8-d3f136cf2fee
     type: content
