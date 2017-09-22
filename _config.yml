@@ -38,6 +38,9 @@ navigation:
   - name: Reddish Brown
     id: fdb090c9-e384-43a1-86ac-e1a1a59727b4
     type: content
+  - name: MiiCrafts
+    id: 2e0f0d63-2013-4b6b-bf1a-b400d6fb2a1e
+    type: content
   - name: 'Oxblood '
     id: 66b21ee8-84ac-4125-82da-f835e2be7c52
     type: content
@@ -58,9 +61,6 @@ navigation:
     type: content
   - name: Olive Green
     id: 83d21d30-d477-4bde-ac36-d79a61942322
-    type: content
-  - name: MiiCrafts
-    id: 2e0f0d63-2013-4b6b-bf1a-b400d6fb2a1e
     type: content
   - name: Green
     id: 92dba23a-887f-4589-988f-d47c9ea18618
