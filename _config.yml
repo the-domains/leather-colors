@@ -26,6 +26,9 @@ navigation:
   - name: Return to LGsamiCrafts
     url: 'https://thegrid.ai/lgsamicrafts/'
     type: external
+  - name: MiiCrafts
+    id: 2e0f0d63-2013-4b6b-bf1a-b400d6fb2a1e
+    type: content
   - name: Contact
     id: a7ad57b8-724c-4726-99dd-c8f32fd79c1c
     type: content
@@ -37,9 +40,6 @@ navigation:
     type: content
   - name: Reddish Brown
     id: fdb090c9-e384-43a1-86ac-e1a1a59727b4
-    type: content
-  - name: MiiCrafts
-    id: 2e0f0d63-2013-4b6b-bf1a-b400d6fb2a1e
     type: content
   - name: 'Oxblood '
     id: 66b21ee8-84ac-4125-82da-f835e2be7c52
