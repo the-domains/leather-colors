@@ -1,4 +1,3 @@
-layout_spectrum: 0.15489107793482887
 typography_spectrum: 0.6439057568716126
 color:
   brandStrength: 0.4352514971800997
@@ -12,6 +11,10 @@ color:
     - '#5E5A59'
     - '#0D0D0D'
 github: true
+opengraph:
+  appId: ''
+  type: ''
+layout_spectrum: 0.15489107793482887
 author:
   name: LG Larsen
   email: l.g.samicrafts@gmail.com
@@ -74,6 +77,9 @@ navigation:
   - name: Red Jellow to Orange
     id: 2c466205-5db2-4f16-a2f8-84032a72769d
     type: content
+  - name: MiiCrafts
+    id: 2e0f0d63-2013-4b6b-bf1a-b400d6fb2a1e
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/de997651-73b0-4489-83a1-0ae0d891935a.jpg
 title: LGsamiCrafts
@@ -110,6 +116,3 @@ purpose:
   - type: external
     url: 'https://thegrid.ai/lgsamicrafts/'
     label: Return to LGsamiCrafts
-opengraph:
-  appId: ''
-  type: ''
