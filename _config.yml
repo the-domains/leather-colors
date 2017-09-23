@@ -32,6 +32,9 @@ navigation:
   - name: Contact
     id: a7ad57b8-724c-4726-99dd-c8f32fd79c1c
     type: content
+  - name: ShopMii
+    url: 'https://thegrid.ai/lgsamicrafts/shopmii/'
+    type: external
   - name: White Black to Gray
     id: 0ba10b2f-90e2-4a50-9cad-5f73e7d96eae
     type: content
@@ -44,9 +47,6 @@ navigation:
   - name: 'Oxblood '
     id: 66b21ee8-84ac-4125-82da-f835e2be7c52
     type: content
-  - name: ShopMii
-    url: 'https://thegrid.ai/lgsamicrafts/shopmii/'
-    type: external
   - name: Light Brown Beige
     id: 5cdd2133-8312-447e-beee-d80f7a398765
     type: content
