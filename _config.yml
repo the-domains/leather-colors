@@ -71,6 +71,9 @@ navigation:
   - name: Aqua to Turquoise
     id: d45d3a8e-f360-4cd1-8a40-5d17f3974063
     type: content
+  - name: ShopMii
+    url: 'https://thegrid.ai/lgsamicrafts/shopmii/'
+    type: external
   - name: Lavender Violet to Purple
     id: 282ba5f7-6ae7-447a-8ce8-d3f136cf2fee
     type: content
@@ -80,9 +83,6 @@ navigation:
   - name: Red Jellow to Orange
     id: 2c466205-5db2-4f16-a2f8-84032a72769d
     type: content
-  - name: ShopMii
-    url: 'https://thegrid.ai/lgsamicrafts/shopmii/'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/de997651-73b0-4489-83a1-0ae0d891935a.jpg
 title: LGsamiCrafts
