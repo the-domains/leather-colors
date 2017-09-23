@@ -56,6 +56,9 @@ navigation:
   - name: Metallic & Pearlized
     id: 010e6198-d6ce-4020-abed-d63477ff4628
     type: content
+  - name: ShopMii
+    url: 'https://thegrid.ai/lgsamicrafts/shopmii/'
+    type: external
   - name: Brown Shades
     id: 0ca0e4e9-c4e4-47b1-98b4-640cf50e2a25
     type: content
@@ -71,9 +74,6 @@ navigation:
   - name: Aqua to Turquoise
     id: d45d3a8e-f360-4cd1-8a40-5d17f3974063
     type: content
-  - name: ShopMii
-    url: 'https://thegrid.ai/lgsamicrafts/shopmii/'
-    type: external
   - name: Lavender Violet to Purple
     id: 282ba5f7-6ae7-447a-8ce8-d3f136cf2fee
     type: content
