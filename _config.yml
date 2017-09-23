@@ -44,6 +44,9 @@ navigation:
   - name: 'Oxblood '
     id: 66b21ee8-84ac-4125-82da-f835e2be7c52
     type: content
+  - name: ShopMii
+    url: 'https://thegrid.ai/lgsamicrafts/shopmii/'
+    type: external
   - name: Light Brown Beige
     id: 5cdd2133-8312-447e-beee-d80f7a398765
     type: content
@@ -56,9 +59,6 @@ navigation:
   - name: Metallic & Pearlized
     id: 010e6198-d6ce-4020-abed-d63477ff4628
     type: content
-  - name: ShopMii
-    url: 'https://thegrid.ai/lgsamicrafts/shopmii/'
-    type: external
   - name: Brown Shades
     id: 0ca0e4e9-c4e4-47b1-98b4-640cf50e2a25
     type: content
