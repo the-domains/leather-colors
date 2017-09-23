@@ -29,12 +29,12 @@ navigation:
   - name: MiiCrafts
     id: 2e0f0d63-2013-4b6b-bf1a-b400d6fb2a1e
     type: content
-  - name: Contact
-    id: a7ad57b8-724c-4726-99dd-c8f32fd79c1c
-    type: content
   - name: ShopMii
     url: 'https://thegrid.ai/lgsamicrafts/shopmii/'
     type: external
+  - name: Contact
+    id: a7ad57b8-724c-4726-99dd-c8f32fd79c1c
+    type: content
   - name: White Black to Gray
     id: 0ba10b2f-90e2-4a50-9cad-5f73e7d96eae
     type: content
