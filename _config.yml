@@ -38,6 +38,9 @@ navigation:
   - name: White Black to Gray
     id: 0ba10b2f-90e2-4a50-9cad-5f73e7d96eae
     type: content
+  - name: Showroom
+    id: 8b55000f-6f00-41c5-9934-28d100625e7c
+    type: content
   - name: Dark antique Brown
     id: de124aac-bf1d-4088-9536-a9663205d3e1
     type: content
@@ -52,9 +55,6 @@ navigation:
     type: content
   - name: Latte Beige Cream
     id: 5e035a34-2db1-45d2-ac98-ee41014f7361
-    type: content
-  - name: Showroom
-    id: 8b55000f-6f00-41c5-9934-28d100625e7c
     type: content
   - name: Gold Silver Copper
     id: 84e4ff70-7ddb-4b0d-b641-428ad9dd36fa
