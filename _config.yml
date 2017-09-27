@@ -83,6 +83,9 @@ navigation:
   - name: Red Jellow to Orange
     id: 2c466205-5db2-4f16-a2f8-84032a72769d
     type: content
+  - name: Showroom
+    id: 8b55000f-6f00-41c5-9934-28d100625e7c
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/de997651-73b0-4489-83a1-0ae0d891935a.jpg
 title: LGsamiCrafts
