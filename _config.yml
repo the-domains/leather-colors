@@ -29,6 +29,9 @@ navigation:
   - name: ShopMii
     url: 'https://thegrid.ai/lgsamicrafts/shopmii/'
     type: external
+  - name: MiiCrafts
+    id: 71048f0d-628a-4c66-86d4-323c805c0ffb
+    type: content
   - name: Contact
     id: a7ad57b8-724c-4726-99dd-c8f32fd79c1c
     type: content
@@ -46,9 +49,6 @@ navigation:
     type: content
   - name: Light Brown Beige
     id: 5cdd2133-8312-447e-beee-d80f7a398765
-    type: content
-  - name: MiiCrafts
-    id: 71048f0d-628a-4c66-86d4-323c805c0ffb
     type: content
   - name: Latte Beige Cream
     id: 5e035a34-2db1-45d2-ac98-ee41014f7361
