@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-29T19:09:30.143Z'
+datePublished: '2017-09-29T19:10:09.265Z'
 sourcePath: _posts/2016-11-30-white-black-gray.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-29T19:09:29.356Z'
+dateModified: '2017-09-29T19:10:08.392Z'
 title: White Black to Gray
 publisher: {}
 description: ''
@@ -48,19 +48,15 @@ SILVER GRAY - Pearlized
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46432f3a-1bf8-4f85-920c-124fc31aa910.jpg)
 
 Dark GRAY - Pearlized
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e614b2fd-5347-482d-bf79-2dd84a905ec4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c7343d0-9a11-4fe7-bb8f-69a96d3c3a81.jpg)
 
 GUNMETAL GRAY - Pearlized
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27b0d832-e80f-45f1-a3bb-051e31b53626.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a022c54f-dc8f-47f8-abdc-d256de3c3727.jpg)
 
 BLACK
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfdfc948-b614-4c67-b4a5-57d07fdcc323.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f4d2472-b7f8-475a-b4e5-7a197f1c4faf.jpg)
 
 Black
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee5a82bb-47c9-480d-be87-15cc47d587b8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d2ae17f-4ad8-4032-bbac-60e339dc5340.jpg)
 
 Black
