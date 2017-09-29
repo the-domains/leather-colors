@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-29T19:10:09.265Z'
+datePublished: '2017-09-29T22:22:25.970Z'
 sourcePath: _posts/2016-11-30-white-black-gray.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-29T19:10:08.392Z'
+dateModified: '2017-09-29T22:22:24.007Z'
 title: White Black to Gray
 publisher: {}
 description: ''
@@ -16,7 +16,7 @@ _type: Article
 
 ---
 # White Black to Gray
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/63dda1e8-3a8b-47f5-81cb-eab9c03e7f18.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9f86e98-cd46-4279-b75d-de51c2b6cca9.jpg)
 
 ---
 
