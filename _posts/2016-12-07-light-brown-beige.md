@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-29T19:52:16.574Z'
+datePublished: '2017-09-29T22:26:15.375Z'
 sourcePath: _posts/2016-12-07-light-brown-beige.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-29T19:52:15.832Z'
+dateModified: '2017-09-29T22:26:14.672Z'
 title: Light Brown Beige
 publisher: {}
 description: ''
@@ -16,7 +16,7 @@ _type: Article
 
 ---
 # Light Brown Beige
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bc8515d-1a2b-426f-8c6d-61edbbb7ff67.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/629a23ff-8e76-445c-ad26-d396b97265e6.jpg)
 
 ---
 
