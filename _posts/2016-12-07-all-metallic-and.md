@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-30T14:10:05.311Z'
+datePublished: '2017-09-30T14:20:16.797Z'
 sourcePath: _posts/2016-12-07-all-metallic-and.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-30T14:10:04.275Z'
+dateModified: '2017-09-30T14:20:15.057Z'
 title: Metallic & Pearlized
 publisher: {}
 description: ''
@@ -41,16 +41,16 @@ BEIGE - Pearlized
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bd744d4-ad36-4f7b-a7f4-9cd8bd0c7f18.jpg)
 
 BRONZE BROWN Metallic
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c43d7b2-5955-47ec-81bd-2e8e9dd75ead.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a7275cd-2729-4624-a99b-4d1bf4adf5b8.jpg)
 
 COPPER Metallic
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43c765e3-9ac8-45ed-8e32-7e772467b3ef.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6adcf23-53ec-4e70-ac92-ecbf4da627cd.jpg)
 
 CHOCO BROWN - Pearlized
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a24e8c21-4ed0-4be3-b963-7ff86a021b4a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/431c3c4f-414b-48e4-92de-4523a318d159.jpg)
 
 BROWN - Pearlized
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a45bac0-eb17-46e2-b9ce-9e5ec79161d1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cba678c9-66e8-4890-bf0f-6718519efe30.jpg)
 
 AMETHYST - Pearlized
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8355eda-9942-4076-9123-ad55c6daf3d3.jpg)
