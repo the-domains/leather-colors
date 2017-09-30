@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-30T14:20:16.797Z'
+datePublished: '2017-09-30T14:27:01.940Z'
 sourcePath: _posts/2016-12-07-all-metallic-and.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-30T14:20:15.057Z'
+dateModified: '2017-09-30T14:27:01.074Z'
 title: Metallic & Pearlized
 publisher: {}
 description: ''
@@ -71,7 +71,7 @@ Dark GREEN - Pearlized
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c88b4a6f-9cff-4eda-8e32-c67bc0cdc526.jpg)
 
 GOLD Metallic
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da6e1acb-88e3-4000-95b9-a16a036160d3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16b7863a-041e-4990-9d1b-f60e738670bf.jpg)
 
 SILVER Metallic
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86035760-3ebe-4e31-98f7-c3378f2b20d5.jpg)
