@@ -116,9 +116,9 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Choose from a variety of Skin & Leather colors
 purpose:
-  - type: internal
-    label: Contact
-    item: a7ad57b8-724c-4726-99dd-c8f32fd79c1c
+  - type: external
+    label: SHOP
+    url: 'https://thegrid.ai/lgsamicrafts/shopmii/'
   - type: external
     url: 'https://thegrid.ai/lgsamicrafts/'
     label: Return to LGsamiCrafts
