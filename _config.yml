@@ -117,7 +117,7 @@ content:
 description: Choose from a variety of Skin & Leather colors
 purpose:
   - type: external
-    label: SHOP
+    label: Shop
     url: 'https://thegrid.ai/lgsamicrafts/shopmii/'
   - type: external
     url: 'https://thegrid.ai/lgsamicrafts/'
