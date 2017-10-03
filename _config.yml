@@ -26,7 +26,7 @@ navigation:
   - name: Return to LGsamiCrafts
     url: 'https://thegrid.ai/lgsamicrafts/'
     type: external
-  - name: ShopMii
+  - name: SHOP
     url: 'https://thegrid.ai/lgsamicrafts/shopmii/'
     type: external
   - name: MiiCrafts
