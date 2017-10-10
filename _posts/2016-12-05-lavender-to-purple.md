@@ -1,14 +1,16 @@
 ---
-datePublished: '2017-09-30T12:27:40.573Z'
+datePublished: '2017-10-10T21:12:43.455Z'
 sourcePath: _posts/2016-12-05-lavender-to-purple.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-30T12:27:39.542Z'
+dateModified: '2017-10-10T21:12:41.764Z'
 title: Lavender Violet to Purple
 publisher: {}
-description: ''
+description: >-
+  // Dark PURPLE // PURPLE // AMETHYST pearlized // VIOLET // LAVENDER //
+  LAVENDER pearlized // PLUM // PLUM metallic //
 starred: false
 datePublishedOriginal: '2017-01-02T00:28:50.768Z'
 url: lavender-lilac-to-purple/index.html
@@ -17,6 +19,8 @@ _type: Article
 ---
 # Lavender Violet to Purple
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5431328e-f547-4ae1-a8c7-48f83d53007d.jpg)
+
+// Dark PURPLE // PURPLE // AMETHYST pearlized // VIOLET // LAVENDER // LAVENDER pearlized // PLUM // PLUM metallic //
 
 ---
 
