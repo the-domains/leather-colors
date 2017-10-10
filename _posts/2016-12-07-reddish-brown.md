@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-10-10T20:20:51.589Z'
+datePublished: '2017-10-10T20:26:13.383Z'
 sourcePath: _posts/2016-12-07-reddish-brown.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-10T20:20:49.041Z'
+dateModified: '2017-10-10T20:26:11.373Z'
 title: Reddish Brown
 publisher: {}
 description: // Dark ANTIQUE BROWN // BROWN // BROWN pearlized // CHOCO BROWN pearlized //
@@ -20,7 +20,7 @@ _type: Article
 
 // Dark ANTIQUE BROWN // BROWN // BROWN pearlized // CHOCO BROWN pearlized //
 
-* ---
+---
 
 The settings of your computer screen may alter color of the pictures shown below
 
