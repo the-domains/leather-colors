@@ -1,14 +1,16 @@
 ---
-datePublished: '2017-09-30T13:44:15.855Z'
+datePublished: '2017-10-10T20:09:06.069Z'
 sourcePath: _posts/2016-11-30-white-black-gray.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-30T13:44:14.098Z'
+dateModified: '2017-10-10T20:09:04.461Z'
 title: White Black to Gray
 publisher: {}
-description: ''
+description: >-
+  WHITE // Off WHITE // Light GRAY // GRAY // Dark GRAY // SILVER GRAY pearlized
+  //Dark GRAY pearlized //GUNMETAL GRAY pearlized //
 starred: false
 datePublishedOriginal: '2017-01-02T15:36:47.504Z'
 url: white-black-to-gray/index.html
@@ -17,6 +19,8 @@ _type: Article
 ---
 # White Black to Gray
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9f86e98-cd46-4279-b75d-de51c2b6cca9.jpg)
+
+WHITE // Off WHITE // Light GRAY // GRAY // Dark GRAY // SILVER GRAY pearlized //Dark GRAY pearlized //GUNMETAL GRAY pearlized //
 
 ---
 
