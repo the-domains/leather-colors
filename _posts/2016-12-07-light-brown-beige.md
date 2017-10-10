@@ -1,14 +1,16 @@
 ---
-datePublished: '2017-09-30T14:52:58.951Z'
+datePublished: '2017-10-10T21:20:51.903Z'
 sourcePath: _posts/2016-12-07-light-brown-beige.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-30T14:52:57.584Z'
+dateModified: '2017-10-10T21:20:50.722Z'
 title: Light Beige
 publisher: {}
-description: ''
+description: >-
+  // BEIGE pearlized //BEIGE // Light BEIGE pearlized // BEIGE WHITE pearlized
+  //
 starred: false
 datePublishedOriginal: '2017-01-01T00:22:47.967Z'
 url: light-brown-beige/index.html
@@ -17,6 +19,8 @@ _type: Article
 ---
 # Light Beige
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/629a23ff-8e76-445c-ad26-d396b97265e6.jpg)
+
+// BEIGE pearlized //BEIGE // Light BEIGE pearlized // BEIGE WHITE pearlized //
 
 ---
 
