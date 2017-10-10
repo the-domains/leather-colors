@@ -1,14 +1,20 @@
 ---
-datePublished: '2017-09-30T14:27:01.940Z'
+datePublished: '2017-10-10T20:45:55.734Z'
 sourcePath: _posts/2016-12-07-all-metallic-and.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-30T14:27:01.074Z'
+dateModified: '2017-10-10T20:45:53.832Z'
 title: Metallic & Pearlized
 publisher: {}
-description: ''
+description: >-
+  // SILVER GRAY pearlized // Dark GRAY pearlized // GUNMETAL GRAY pearlized
+  //BEIGE WHITE pearlized //Light BEIGE pearlized // BEIGE pearlized // BRONZE
+  BROWN metallic // COPPER metallic // CHOCO BROWN pearlized // BROWN pearlized
+  // AMETHYST pearlized // PLUM metallic // PINK pearlized // LAVENDER pearlized
+  // TURQUOISE BLUE pearlized // Dark GREEN pearlized // GOLD metallic // SILVER
+  metallic //
 starred: false
 datePublishedOriginal: '2017-01-01T00:22:48.055Z'
 url: metallic-and-pearlized/index.html
@@ -17,6 +23,8 @@ _type: Article
 ---
 # Metallic & Pearlized
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8fc6acd-470a-4e1e-9996-938fb4f931fc.jpg)
+
+// SILVER GRAY pearlized // Dark GRAY pearlized // GUNMETAL GRAY pearlized //BEIGE WHITE pearlized //Light BEIGE pearlized // BEIGE pearlized // BRONZE BROWN metallic // COPPER metallic // CHOCO BROWN pearlized // BROWN pearlized // AMETHYST pearlized // PLUM metallic // PINK pearlized // LAVENDER pearlized // TURQUOISE BLUE pearlized // Dark GREEN pearlized // GOLD metallic // SILVER metallic //
 
 ---
 
