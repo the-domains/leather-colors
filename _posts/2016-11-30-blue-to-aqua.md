@@ -1,14 +1,16 @@
 ---
-datePublished: '2017-09-30T11:59:07.013Z'
+datePublished: '2017-10-10T21:26:39.123Z'
 sourcePath: _posts/2016-11-30-blue-to-aqua.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-30T11:59:05.589Z'
+dateModified: '2017-10-10T21:26:37.385Z'
 title: Blue
 publisher: {}
-description: ''
+description: >-
+  // NAVY BLUE // BLUE // JEANS BLUE // Light BLUE // TURQUOISE BLUE pearlized
+  //
 starred: false
 datePublishedOriginal: '2017-01-01T00:22:48.056Z'
 url: blue/index.html
@@ -17,6 +19,8 @@ _type: Article
 ---
 # Blue
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/52391342-97db-494a-9fe2-d1f1569e1b5f.jpg)
+
+// NAVY BLUE // BLUE // JEANS BLUE // Light BLUE // TURQUOISE BLUE pearlized //
 
 ---
 
