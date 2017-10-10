@@ -4,9 +4,9 @@
         <description><![CDATA[LGsamiCrafts]]></description>
         <link>https://thegrid.ai/leather-colors/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Oct 2017 21:03:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2017 21:04:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/leather-colors/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Oct 2017 21:03:25 GMT</pubDate>
+        <pubDate>Tue, 10 Oct 2017 21:04:33 GMT</pubDate>
         <item>
             <title><![CDATA[White Black to Gray]]></title>
             <description><![CDATA[<h1>White Black to Gray</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9f86e98-cd46-4279-b75d-de51c2b6cca9.jpg">,<p>// WHITE // Off WHITE // Light GRAY // GRAY // Dark GRAY // SILVER GRAY pearlized // Dark GRAY pearlized // GUNMETAL GRAY pearlized // BLACK //</p>,<ul><li></li></ul>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Sun, 01 Jan 2017 00:22:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Green]]></title>
+            <description><![CDATA[<h1>Green</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcba3591-547c-46c0-bc32-d21537ddc188.jpg">,<p>// LIME GREEN // APPLE GREEN // GREEN // MINT GREEN // Dark GREEN pearlized //</p>]]></description>
+            <link>https://thegrid.ai/leather-colors/green/index.html</link>
+            <guid isPermaLink="false">92dba23a-887f-4589-988f-d47c9ea18618</guid>
+            <pubDate>Sun, 01 Jan 2017 00:22:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Aqua to Turquoise]]></title>
             <description><![CDATA[<h1>Aqua to Turquoise</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df53e5db-8a0c-471e-97f3-139f51c9b3a6.jpg">,<p>// TEAL // TURQUOISE // AQUA // TURQUOISE BLUE pearlized //</p>]]></description>
             <link>https://thegrid.ai/leather-colors/aqua-to-turquoise/index.html</link>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/leather-colors/red-jellow-to-orange/index.html</link>
             <guid isPermaLink="false">2c466205-5db2-4f16-a2f8-84032a72769d</guid>
             <pubDate>Mon, 02 Jan 2017 01:37:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Green]]></title>
-            <description><![CDATA[<h1>Green</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcba3591-547c-46c0-bc32-d21537ddc188.jpg">,<p>// LIME GREEN // APPLE GREEN // GREEN // MINT GREEN // Dark GREEN pearlized //</p>]]></description>
-            <link>https://thegrid.ai/leather-colors/green/index.html</link>
-            <guid isPermaLink="false">92dba23a-887f-4589-988f-d47c9ea18618</guid>
-            <pubDate>Sun, 01 Jan 2017 00:22:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
