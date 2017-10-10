@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-10-10T20:26:13.383Z'
+datePublished: '2017-10-10T20:36:18.417Z'
 sourcePath: _posts/2016-12-07-reddish-brown.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-10T20:26:11.373Z'
-title: Reddish Brown
+dateModified: '2017-10-10T20:36:17.457Z'
+title: Brown
 publisher: {}
 description: // Dark ANTIQUE BROWN // BROWN // BROWN pearlized // CHOCO BROWN pearlized //
 starred: false
@@ -15,7 +15,7 @@ url: reddish-brown/index.html
 _type: Article
 
 ---
-# Reddish Brown
+# Brown
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e71dbc5f-32f2-4e9d-a1ee-2673b698f9fb.jpg)
 
 // Dark ANTIQUE BROWN // BROWN // BROWN pearlized // CHOCO BROWN pearlized //
