@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-10-10T20:45:55.734Z'
+datePublished: '2017-10-10T20:45:58.334Z'
 sourcePath: _posts/2016-12-07-all-metallic-and.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-10T20:45:53.832Z'
+dateModified: '2017-10-10T20:45:57.438Z'
 title: Metallic & Pearlized
 publisher: {}
 description: >-
@@ -26,7 +26,7 @@ _type: Article
 
 // SILVER GRAY pearlized // Dark GRAY pearlized // GUNMETAL GRAY pearlized //BEIGE WHITE pearlized //Light BEIGE pearlized // BEIGE pearlized // BRONZE BROWN metallic // COPPER metallic // CHOCO BROWN pearlized // BROWN pearlized // AMETHYST pearlized // PLUM metallic // PINK pearlized // LAVENDER pearlized // TURQUOISE BLUE pearlized // Dark GREEN pearlized // GOLD metallic // SILVER metallic //
 
----
+* ---
 
 The settings of your computer screen may alter color of the pictures shown below
 
