@@ -1,14 +1,14 @@
 ---
-datePublished: '2017-09-30T13:48:33.772Z'
+datePublished: '2017-10-10T20:20:51.589Z'
 sourcePath: _posts/2016-12-07-reddish-brown.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-30T13:48:31.346Z'
+dateModified: '2017-10-10T20:20:49.041Z'
 title: Reddish Brown
 publisher: {}
-description: ''
+description: // Dark ANTIQUE BROWN // BROWN // BROWN pearlized // CHOCO BROWN pearlized //
 starred: false
 datePublishedOriginal: '2017-01-02T15:18:14.605Z'
 url: reddish-brown/index.html
@@ -18,7 +18,9 @@ _type: Article
 # Reddish Brown
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e71dbc5f-32f2-4e9d-a1ee-2673b698f9fb.jpg)
 
----
+// Dark ANTIQUE BROWN // BROWN // BROWN pearlized // CHOCO BROWN pearlized //
+
+* ---
 
 The settings of your computer screen may alter color of the pictures shown below
 
