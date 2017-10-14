@@ -50,6 +50,9 @@ navigation:
   - name: 'Oxblood '
     id: 66b21ee8-84ac-4125-82da-f835e2be7c52
     type: content
+  - name: Leather CORD
+    id: ede3f5d8-2cbb-460f-a5cb-c364dd17f93b
+    type: content
   - name: Beige
     id: 5cdd2133-8312-447e-beee-d80f7a398765
     type: content
@@ -58,9 +61,6 @@ navigation:
     type: content
   - name: Gold Silver Copper Bronze
     id: 84e4ff70-7ddb-4b0d-b641-428ad9dd36fa
-    type: content
-  - name: Leather CORD
-    id: ede3f5d8-2cbb-460f-a5cb-c364dd17f93b
     type: content
   - name: Metallic & Pearlized
     id: 010e6198-d6ce-4020-abed-d63477ff4628
