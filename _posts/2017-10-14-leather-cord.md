@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-14T21:04:00.016Z'
-datePublished: '2017-10-14T21:04:01.093Z'
+dateModified: '2017-10-14T21:06:29.634Z'
+datePublished: '2017-10-14T21:06:31.191Z'
 title: Leather CORD
 author: []
 publisher: {}
@@ -52,7 +52,6 @@ _type: Article
 
 // ORANGE //
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/086b5ee2-51ef-48d4-8dab-f0e1498626ef.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/298a0c63-ccdf-40f1-bcde-0db87b9effc9.jpg)
 
 // RED // BURGUNDY RED // Dark RED // NATURAL RED //
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd995e3e-a62b-4fd1-8660-dd47e02c7294.jpg)
@@ -70,7 +69,8 @@ _type: Article
 // SALMON PINK // Light PINK // Light PINK metallic //
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b85a961d-3ca7-460c-bfa9-af1891b5a123.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e60150d-9b8b-4ca9-b70b-787b4299c540.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f7bce71-ccb6-4b23-b999-fbabc3f1ab1c.jpg)
+
+* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f7bce71-ccb6-4b23-b999-fbabc3f1ab1c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ce8e0a1-44ef-447a-83c9-122e608c1e67.jpg)
 
 ---
@@ -78,7 +78,8 @@ _type: Article
 // Dark PURPLE metallic // PURPLE metallic // Light PURPLE metallic //
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bb00446-3f44-4e9e-b1f6-cc02a21aeb9b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a87e217-8170-4d88-8623-ed61020ccbe7.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d1f8dba-b186-4387-9d81-6d079ed6f396.jpg)
+
+* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d1f8dba-b186-4387-9d81-6d079ed6f396.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f813b825-bbcf-4ff0-9136-c4bbfe6c1c99.jpg)
 
 ---
@@ -89,5 +90,6 @@ _type: Article
 
 // GREEN metallic // Dark GREEN // Light GREEN // AQUA GREEN metallic // LIME GREEN metallic //
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c4a5d58-a9ed-4780-b34d-64f274bb012b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7cc9c6a-cdea-4ddf-a9ee-7ed207c04e7b.jpg)
+
+* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7cc9c6a-cdea-4ddf-a9ee-7ed207c04e7b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d57fa5a-515b-46c3-9638-9be9a88409df.jpg)
