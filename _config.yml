@@ -80,14 +80,14 @@ navigation:
   - name: Lavender Violet to Purple
     id: 282ba5f7-6ae7-447a-8ce8-d3f136cf2fee
     type: content
+  - name: Leather CORD
+    id: ede3f5d8-2cbb-460f-a5cb-c364dd17f93b
+    type: content
   - name: Rose Pink Cerise
     id: ee42d976-1bb0-432c-8dcc-1e263a8e479a
     type: content
   - name: Red Jellow to Orange
     id: 2c466205-5db2-4f16-a2f8-84032a72769d
-    type: content
-  - name: Leather CORD
-    id: ede3f5d8-2cbb-460f-a5cb-c364dd17f93b
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/de997651-73b0-4489-83a1-0ae0d891935a.jpg
