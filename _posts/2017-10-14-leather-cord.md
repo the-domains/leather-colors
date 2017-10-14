@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-14T20:46:09.122Z'
-datePublished: '2017-10-14T20:46:09.982Z'
+dateModified: '2017-10-14T20:49:32.393Z'
+datePublished: '2017-10-14T20:49:33.493Z'
 title: Leather CORD
 author: []
 publisher: {}
@@ -72,3 +72,14 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e60150d-9b8b-4ca9-b70b-787b4299c540.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f7bce71-ccb6-4b23-b999-fbabc3f1ab1c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ce8e0a1-44ef-447a-83c9-122e608c1e67.jpg)
+
+---
+
+// Dark PURPLE metallic // PURPLE metallic // Light PURPLE metallic // ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bb00446-3f44-4e9e-b1f6-cc02a21aeb9b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a87e217-8170-4d88-8623-ed61020ccbe7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d1f8dba-b186-4387-9d81-6d079ed6f396.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f813b825-bbcf-4ff0-9136-c4bbfe6c1c99.jpg)
+
+---
+
+// dark
