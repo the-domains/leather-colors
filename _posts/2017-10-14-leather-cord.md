@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-14T20:30:47.397Z'
-datePublished: '2017-10-14T20:30:48.169Z'
+dateModified: '2017-10-14T20:36:11.440Z'
+datePublished: '2017-10-14T20:36:12.383Z'
 title: Leather CORD
 author: []
 publisher: {}
@@ -41,3 +41,15 @@ _type: Article
 // BRONZE BROWN metallic // BEIGE // GOLD metallic//
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e715d369-e713-4392-9b27-d41c2665e472.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a699623-2118-4de1-babe-dd0c7d24a57b.jpg)
+
+// BROWN // COPPER metallic //
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7bf0659-d92b-4b94-b6da-fe5c622419b3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57b10b11-8561-4aab-8847-18c693dc800a.jpg)
+
+// BROWN // COPPER metalic // ORANGE //
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7e4579f-de5c-4268-a828-a80a99b7b047.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4498cdf-de6f-498e-a4c2-31a375a68351.jpg)
+
+// ORANGE //
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/086b5ee2-51ef-48d4-8dab-f0e1498626ef.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/298a0c63-ccdf-40f1-bcde-0db87b9effc9.jpg)
