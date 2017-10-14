@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-14T20:49:32.393Z'
-datePublished: '2017-10-14T20:49:33.493Z'
+dateModified: '2017-10-14T20:55:00.948Z'
+datePublished: '2017-10-14T20:55:02.127Z'
 title: Leather CORD
 author: []
 publisher: {}
@@ -82,4 +82,11 @@ _type: Article
 
 ---
 
-// dark
+// Dark BLUE //
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8955643-4f6d-44f3-bea8-754135339b8e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9379ded-1093-466d-ba48-bbdc53cf938d.jpg)
+
+// GREEN metallic // Dark GREEN // Light GREEN // AQUA GREEN metallic // LIME GREEN metallic //
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c4a5d58-a9ed-4780-b34d-64f274bb012b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7cc9c6a-cdea-4ddf-a9ee-7ed207c04e7b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d57fa5a-515b-46c3-9638-9be9a88409df.jpg)
