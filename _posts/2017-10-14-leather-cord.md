@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-14T20:36:11.440Z'
-datePublished: '2017-10-14T20:36:12.383Z'
+dateModified: '2017-10-14T20:42:36.710Z'
+datePublished: '2017-10-14T20:42:38.131Z'
 title: Leather CORD
 author: []
 publisher: {}
@@ -53,3 +53,14 @@ _type: Article
 // ORANGE //
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/086b5ee2-51ef-48d4-8dab-f0e1498626ef.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/298a0c63-ccdf-40f1-bcde-0db87b9effc9.jpg)
+
+// RED // BURGUNDY RED // Dark RED // NATURAL RED //
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd995e3e-a62b-4fd1-8660-dd47e02c7294.jpg)
+
+// NATURAL RED // Dark RED //
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5ae7534-c6a9-400d-afea-00266b7af4c0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a962236b-1582-4c1a-9de9-3541764db187.jpg)
+
+// RED // BURGUNDY RED //
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71567cce-a6bf-46d7-8194-a3237e3b307c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78d185ea-6e42-48fc-aee6-bf0f936c65a3.jpg)
