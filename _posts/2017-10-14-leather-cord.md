@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-14T21:30:10.519Z'
-datePublished: '2017-10-14T21:30:12.983Z'
+dateModified: '2017-10-14T21:35:41.318Z'
+datePublished: '2017-10-14T21:35:42.611Z'
 title: Leather CORD
 author: []
 publisher: {}
