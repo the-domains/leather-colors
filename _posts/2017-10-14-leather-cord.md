@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: ''
-dateModified: '2017-10-14T22:07:28.068Z'
-datePublished: '2017-10-14T22:07:28.344Z'
+dateModified: '2017-10-14T22:12:41.299Z'
+datePublished: '2017-10-14T22:12:42.183Z'
 title: Leather CORD
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ sourcePath: _posts/2017-10-14-leather-cord.md
 starred: false
 datePublishedOriginal: '2017-10-14T20:30:48.169Z'
 url: leather-cord/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Leather CORD
