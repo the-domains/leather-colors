@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-10-15T08:41:34.067Z'
+datePublished: '2017-10-15T08:47:15.746Z'
 sourcePath: _posts/2016-12-07-light-brown-beige.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-15T08:41:32.809Z'
+dateModified: '2017-10-15T08:47:14.969Z'
 title: Beige
 publisher: {}
 description: >-
