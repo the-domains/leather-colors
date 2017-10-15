@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-10-15T08:24:02.168Z'
+datePublished: '2017-10-15T08:26:57.258Z'
 sourcePath: _posts/2016-12-07-all-metallic-and.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-15T08:24:01.185Z'
+dateModified: '2017-10-15T08:26:56.965Z'
 title: Metallic & Pearlized
 publisher: {}
 description: >-
