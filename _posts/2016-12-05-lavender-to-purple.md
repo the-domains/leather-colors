@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-10-15T08:47:15.767Z'
+datePublished: '2017-10-15T08:54:49.022Z'
 sourcePath: _posts/2016-12-05-lavender-to-purple.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-15T08:47:14.969Z'
+dateModified: '2017-10-15T08:54:48.289Z'
 title: Lavender Violet to Purple
 publisher: {}
 description: >-
