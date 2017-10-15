@@ -50,11 +50,11 @@ navigation:
   - name: Brown
     id: fdb090c9-e384-43a1-86ac-e1a1a59727b4
     type: content
-  - name: 'Oxblood '
-    id: 66b21ee8-84ac-4125-82da-f835e2be7c52
-    type: content
   - name: Beige
     id: 5cdd2133-8312-447e-beee-d80f7a398765
+    type: content
+  - name: 'Oxblood '
+    id: 66b21ee8-84ac-4125-82da-f835e2be7c52
     type: content
   - name: Gold Silver Copper Bronze
     id: 84e4ff70-7ddb-4b0d-b641-428ad9dd36fa
