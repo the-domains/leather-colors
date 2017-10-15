@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-10-15T08:17:04.285Z'
+datePublished: '2017-10-15T08:24:02.169Z'
 sourcePath: _posts/2016-11-30-blue-to-aqua.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-15T08:17:03.588Z'
+dateModified: '2017-10-15T08:24:01.185Z'
 title: Blue
 publisher: {}
 description: >-
