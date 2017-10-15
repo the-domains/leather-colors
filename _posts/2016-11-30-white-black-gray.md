@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-10-15T13:33:02.569Z'
+datePublished: '2017-10-15T13:35:40.557Z'
 sourcePath: _posts/2016-11-30-white-black-gray.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-15T13:33:01.201Z'
+dateModified: '2017-10-15T13:35:39.166Z'
 title: White Black to Gray
 publisher: {}
 description: >-
@@ -25,6 +25,7 @@ _type: Article
 * ---
 
 The settings of your computer screen may alter color of the pictures shown below
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abc40d9f-2a17-4dda-ad3f-2ea70aabba09.jpg)
 
 WHITE
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33d0b218-0273-4b68-be0a-451c49ef4136.jpg)
@@ -67,4 +68,3 @@ Black
 
 Black
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47e15572-eb75-4d2d-be3e-fc8a8d149e72.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abc40d9f-2a17-4dda-ad3f-2ea70aabba09.jpg)
