@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-10-15T13:35:40.557Z'
+datePublished: '2017-10-15T13:39:33.659Z'
 sourcePath: _posts/2016-11-30-white-black-gray.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-15T13:35:39.166Z'
+dateModified: '2017-10-15T13:39:32.521Z'
 title: White Black to Gray
 publisher: {}
 description: >-
@@ -45,7 +45,7 @@ GRAY
 Dark GRAY
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db0ac55a-e2e8-44ed-bb9d-13291080b86a.jpg)
 
-Gray/Light Gray/Dark Gray/Black
+Gray// Light Gray // Dark Gray // Black
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4a09be8-39b5-4fb2-bcf4-a09074720661.jpg)
 
 SILVER GRAY - Pearlized
@@ -68,3 +68,6 @@ Black
 
 Black
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47e15572-eb75-4d2d-be3e-fc8a8d149e72.jpg)
+
+White // Off White // Light Gray // Gray // dark Gray // Black
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8bc0568-6602-43fb-971f-db28f726ad5c.jpg)
