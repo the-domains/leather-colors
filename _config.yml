@@ -56,9 +56,6 @@ navigation:
   - name: Beige
     id: 5cdd2133-8312-447e-beee-d80f7a398765
     type: content
-  - name: Latte Beige Cream
-    id: 5e035a34-2db1-45d2-ac98-ee41014f7361
-    type: content
   - name: Gold Silver Copper Bronze
     id: 84e4ff70-7ddb-4b0d-b641-428ad9dd36fa
     type: content
