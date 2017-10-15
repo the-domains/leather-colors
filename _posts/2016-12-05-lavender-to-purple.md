@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-10-15T09:14:55.485Z'
+datePublished: '2017-10-15T14:37:49.217Z'
 sourcePath: _posts/2016-12-05-lavender-to-purple.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-15T09:14:54.369Z'
+dateModified: '2017-10-15T14:37:48.303Z'
 title: Lavender Violet to Purple
 publisher: {}
 description: >-
@@ -25,6 +25,7 @@ _type: Article
 ---
 
 The settings of your computer screen may alter the color of the pictures shown below
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1481e2dd-fd6b-4258-a2fb-e891d512c4c2.jpg)
 
 Dark PURPLE
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/00a6d590-3250-44d5-bc1e-d309418a78b8.jpg)
@@ -49,3 +50,4 @@ PLUM
 
 PLUM - Metallic
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c41ca0f-bf38-4ba4-8b2e-13f7fad81615.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f295b322-90d6-44d1-b804-338e8f4f23fa.jpg)
