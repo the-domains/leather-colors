@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-10-15T15:40:02.450Z'
+datePublished: '2017-10-15T15:40:06.971Z'
 sourcePath: _posts/2016-12-07-reddish-brown.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-15T15:40:01.391Z'
+dateModified: '2017-10-15T15:40:06.408Z'
 title: Brown
 publisher: {}
 description: >-
