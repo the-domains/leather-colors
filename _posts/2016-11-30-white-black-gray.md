@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-10-15T13:39:33.659Z'
+datePublished: '2017-11-11T09:51:18.394Z'
 sourcePath: _posts/2016-11-30-white-black-gray.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-15T13:39:32.521Z'
+dateModified: '2017-11-11T09:51:16.900Z'
 title: White Black to Gray
 publisher: {}
 description: >-
@@ -22,7 +22,9 @@ _type: Article
 
 // WHITE // Off WHITE // Light GRAY // GRAY // Dark GRAY // SILVER GRAY pearlized // Dark GRAY pearlized // GUNMETAL GRAY pearlized // BLACK //
 
-* ---
+# -
+
+---
 
 The settings of your computer screen may alter color of the pictures shown below
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abc40d9f-2a17-4dda-ad3f-2ea70aabba09.jpg)
