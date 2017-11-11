@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-11-11T10:37:02.104Z'
-datePublished: '2017-11-11T10:37:03.514Z'
+dateModified: '2017-11-11T10:39:31.553Z'
+datePublished: '2017-11-11T10:39:32.703Z'
 title: Leather CORD
 author: []
 publisher: {}
@@ -54,7 +54,7 @@ BROWN // COPPER metallic
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7bf0659-d92b-4b94-b6da-fe5c622419b3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57b10b11-8561-4aab-8847-18c693dc800a.jpg)
 
-# ---
+# -
 
 BROWN // COPPER metalic // ORANGE
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7e4579f-de5c-4268-a828-a80a99b7b047.jpg)
