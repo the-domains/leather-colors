@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-11-11T10:39:31.553Z'
-datePublished: '2017-11-11T10:39:32.703Z'
+dateModified: '2017-11-11T12:05:17.198Z'
+datePublished: '2017-11-11T12:05:19.759Z'
 title: Leather CORD
 author: []
 publisher: {}
@@ -27,11 +27,17 @@ _type: Blurb
 // WHITE // PEARL WHITE
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72866ca4-b51b-44de-b712-26a21d8c25c4.jpg)
 
+# ---
+
 GRAY metallic // GRAY
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3110b1f-f98e-447a-a2d3-1ccd0443cfc8.jpg)
 
+# ---
+
 Jet BLACK // Matte BLACK
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01df2dc6-1a8c-4205-ad93-4349f6a32ca7.jpg)
+
+# ---
 
 Dark BROWN // Dark ANTIQUE BROWN
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/116053c2-c4d4-4232-972a-62bf6e054e02.jpg)
@@ -59,6 +65,8 @@ BROWN // COPPER metallic
 BROWN // COPPER metalic // ORANGE
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7e4579f-de5c-4268-a828-a80a99b7b047.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4498cdf-de6f-498e-a4c2-31a375a68351.jpg)
+
+# -
 
 ORANGE
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/086b5ee2-51ef-48d4-8dab-f0e1498626ef.jpg)
