@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-11-11T10:44:52.234Z'
+datePublished: '2017-11-11T10:44:55.059Z'
 sourcePath: _posts/2016-11-30-white-black-gray.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-11-11T10:44:50.184Z'
+dateModified: '2017-11-11T10:44:52.942Z'
 title: White Black to Gray
 publisher: {}
 description: >-
