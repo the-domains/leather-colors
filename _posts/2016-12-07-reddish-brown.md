@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-10-15T15:40:06.971Z'
+datePublished: '2017-11-11T10:09:04.708Z'
 sourcePath: _posts/2016-12-07-reddish-brown.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-15T15:40:06.408Z'
+dateModified: '2017-11-11T10:09:03.114Z'
 title: Brown
 publisher: {}
 description: >-
@@ -26,6 +26,8 @@ _type: Article
 
 The settings of your computer screen may alter color of the pictures shown below
 
+# ---
+
 BROWN
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5859fe0b-e941-47d0-92c3-240281a79dd5.jpg)
 
@@ -35,6 +37,8 @@ BROWN - Pearlized
 Choco BROWN - Pearlized
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40a9d525-a733-46de-8d8f-8ff2e06c399a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a90c5db1-b6e7-4984-b7ec-72f7449045e4.jpg)
+
+# ---
 
 LATTE BROWN
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e3cd340-5762-49c7-b411-637a6e3ce353.jpg)
@@ -48,5 +52,8 @@ BROWN BEIGE
 Dark ANTIQUE BROWN
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a019b616-176f-4cb2-b3c9-9d999b752d3d.jpg)
 
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04a2833e-fe60-4153-acbb-bce64d0ffb4f.jpg)
+# ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04a2833e-fe60-4153-acbb-bce64d0ffb4f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a22abd5-8d20-4960-a1c9-fadcfbe3d192.jpg)
+
+# ---
