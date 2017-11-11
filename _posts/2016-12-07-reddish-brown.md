@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-11-11T10:50:37.800Z'
+datePublished: '2017-11-11T10:52:29.711Z'
 sourcePath: _posts/2016-12-07-reddish-brown.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-11-11T10:50:36.372Z'
+dateModified: '2017-11-11T10:52:27.859Z'
 title: Brown
 publisher: {}
 description: >-
@@ -39,7 +39,8 @@ Choco BROWN - Pearlized
 
 # -
 
-Bown // Brown- pearlized // Choco Brown- pearlized ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a90c5db1-b6e7-4984-b7ec-72f7449045e4.jpg)
+Bown // Brown- pearlized // Choco Brown- pearlized
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a90c5db1-b6e7-4984-b7ec-72f7449045e4.jpg)
 
 # ---
 
@@ -58,7 +59,7 @@ Dark ANTIQUE BROWN
 # ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04a2833e-fe60-4153-acbb-bce64d0ffb4f.jpg)
 
-# -
+# ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a22abd5-8d20-4960-a1c9-fadcfbe3d192.jpg)
 
 # ---
