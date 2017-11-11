@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-11-11T10:21:43.386Z'
+datePublished: '2017-11-11T10:23:34.063Z'
 sourcePath: _posts/2016-12-07-light-brown-beige.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-11-11T10:21:42.119Z'
+dateModified: '2017-11-11T10:23:32.694Z'
 title: Beige
 publisher: {}
 description: >-
@@ -34,6 +34,8 @@ The settings of your computer screen may alter color of the pictures shown below
 BEIGE - Pearlized
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/23aac879-ea15-476d-b996-0d7db97c0c49.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fecbb0a-6da3-44c7-80b5-c3cae62cb33b.jpg)
+
+# ---
 
 BEIGE
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f930c4c6-3000-45d7-b457-40e48edec6d8.jpg)
