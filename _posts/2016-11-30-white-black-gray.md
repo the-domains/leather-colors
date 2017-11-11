@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-11-11T10:42:19.221Z'
+datePublished: '2017-11-11T10:44:52.234Z'
 sourcePath: _posts/2016-11-30-white-black-gray.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-11-11T10:42:17.098Z'
+dateModified: '2017-11-11T10:44:50.184Z'
 title: White Black to Gray
 publisher: {}
 description: >-
@@ -39,6 +39,8 @@ OFF WHITE
 
 White/off White
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bc5e32a-410b-4a6f-95f6-c514bbe206f0.jpg)
+
+# ---
 
 Light GRAY
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c68d490-3c91-4374-95bb-e33ccd199ae4.jpg)
