@@ -1,16 +1,14 @@
 ---
-datePublished: '2017-11-11T12:10:52.993Z'
+datePublished: '2018-07-14T11:45:43.212Z'
 sourcePath: _posts/2016-12-07-light-brown-beige.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-11-11T12:10:51.619Z'
+dateModified: '2018-07-14T11:45:42.199Z'
 title: Beige
 publisher: {}
-description: >-
-  // BEIGE pearlized //BEIGE // Light BEIGE pearlized // BEIGE WHITE pearlized
-  // CREAM // BROWN BEIGE //
+description: // BEIGE pearlized //BEIGE // Light BEIGE pearlized // CREAM // BROWN BEIGE //
 starred: false
 datePublishedOriginal: '2017-10-15T18:31:02.110Z'
 url: beige/index.html
@@ -20,7 +18,7 @@ _type: Article
 # Beige
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/629a23ff-8e76-445c-ad26-d396b97265e6.jpg)
 
-// BEIGE pearlized //BEIGE // Light BEIGE pearlized // BEIGE WHITE pearlized // CREAM // BROWN BEIGE //
+// BEIGE pearlized //BEIGE // Light BEIGE pearlized // CREAM // BROWN BEIGE //
 
 ---
 
@@ -32,24 +30,19 @@ The settings of your computer screen may alter color of the pictures shown below
 # ---
 
 BEIGE - Pearlized
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/23aac879-ea15-476d-b996-0d7db97c0c49.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fecbb0a-6da3-44c7-80b5-c3cae62cb33b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7a7c269-8654-40c7-8c53-66a593242c5a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/416406c2-e559-492c-b83d-fd1f66bea04e.jpg)
 
 # ---
 
 BEIGE
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f930c4c6-3000-45d7-b457-40e48edec6d8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bb4c805-65f5-478f-86f3-9e4058d4804e.jpg)
 
 # ---
 
 Light BEIGE - Pearlized
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f977bab-bf5c-4d81-abe8-d93c327e729b.jpg)
-
-# ---
-
-BEIGE WHITE - Pearlized
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc2a203b-5b2a-4f3c-bd5d-870027e58126.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bf52197-b5bc-4ae8-aa37-219e72e5168e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a0e2b50-feb0-4fba-825a-71ce7fd2680a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60952e88-a696-4e30-b5ec-309cd7642420.jpg)
 
 # ---
 
