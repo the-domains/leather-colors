@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-07-14T11:45:43.212Z'
+datePublished: '2018-07-14T12:16:52.866Z'
 sourcePath: _posts/2016-12-07-light-brown-beige.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-07-14T11:45:42.199Z'
+dateModified: '2018-07-14T12:16:50.868Z'
 title: Beige
 publisher: {}
 description: // BEIGE pearlized //BEIGE // Light BEIGE pearlized // CREAM // BROWN BEIGE //
@@ -31,7 +31,6 @@ The settings of your computer screen may alter color of the pictures shown below
 
 BEIGE - Pearlized
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7a7c269-8654-40c7-8c53-66a593242c5a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/416406c2-e559-492c-b83d-fd1f66bea04e.jpg)
 
 # ---
 
