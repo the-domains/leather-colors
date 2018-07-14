@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-07-14T10:59:56.749Z'
+datePublished: '2018-07-14T12:13:10.368Z'
 sourcePath: _posts/2016-12-07-all-metallic-and.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-07-14T10:59:53.979Z'
+dateModified: '2018-07-14T12:13:08.637Z'
 title: Metallic & Pearlized
 publisher: {}
 description: >-
@@ -53,7 +53,6 @@ Light BEIGE - Pearlized
 
 BEIGE - Pearlized
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9cc273e-5677-41c5-a637-26bb3fbead02.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c486ebd3-12e6-4508-bbbb-308a725c6f7e.jpg)
 
 # ---
 
