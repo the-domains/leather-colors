@@ -44,6 +44,9 @@ navigation:
   - name: White Black to Gray
     id: 0ba10b2f-90e2-4a50-9cad-5f73e7d96eae
     type: content
+  - name: Gold Silver Copper Bronze
+    id: 84e4ff70-7ddb-4b0d-b641-428ad9dd36fa
+    type: content
   - name: Dark Antique Brown
     id: de124aac-bf1d-4088-9536-a9663205d3e1
     type: content
@@ -58,9 +61,6 @@ navigation:
     type: content
   - name: 'Burgundy Dark Red '
     id: 66b21ee8-84ac-4125-82da-f835e2be7c52
-    type: content
-  - name: Gold Silver Copper Bronze
-    id: 84e4ff70-7ddb-4b0d-b641-428ad9dd36fa
     type: content
   - name: Metallic & Pearlized
     id: 010e6198-d6ce-4020-abed-d63477ff4628
