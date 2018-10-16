@@ -56,14 +56,14 @@ navigation:
   - name: White Black to Gray
     id: 0ba10b2f-90e2-4a50-9cad-5f73e7d96eae
     type: content
+  - name: Brown Beige Shades
+    id: 0ca0e4e9-c4e4-47b1-98b4-640cf50e2a25
+    type: content
   - name: Dark Antique Brown
     id: de124aac-bf1d-4088-9536-a9663205d3e1
     type: content
   - name: 'Burgundy Dark Red '
     id: 66b21ee8-84ac-4125-82da-f835e2be7c52
-    type: content
-  - name: Brown Beige Shades
-    id: 0ca0e4e9-c4e4-47b1-98b4-640cf50e2a25
     type: content
   - name: Olive Green
     id: 83d21d30-d477-4bde-ac36-d79a61942322
