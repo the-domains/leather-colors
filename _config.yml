@@ -62,6 +62,9 @@ navigation:
   - name: Metallic & Pearlized
     id: 010e6198-d6ce-4020-abed-d63477ff4628
     type: content
+  - name: Green
+    id: 92dba23a-887f-4589-988f-d47c9ea18618
+    type: content
   - name: White Black to Gray
     id: 0ba10b2f-90e2-4a50-9cad-5f73e7d96eae
     type: content
@@ -76,9 +79,6 @@ navigation:
     type: content
   - name: Olive Green
     id: 83d21d30-d477-4bde-ac36-d79a61942322
-    type: content
-  - name: Green
-    id: 92dba23a-887f-4589-988f-d47c9ea18618
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/de997651-73b0-4489-83a1-0ae0d891935a.jpg
