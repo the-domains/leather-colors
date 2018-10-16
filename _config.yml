@@ -50,6 +50,9 @@ navigation:
   - name: Dark Antique Brown
     id: de124aac-bf1d-4088-9536-a9663205d3e1
     type: content
+  - name: Metallic & Pearlized
+    id: 010e6198-d6ce-4020-abed-d63477ff4628
+    type: content
   - name: Brown Beige Shades
     id: 0ca0e4e9-c4e4-47b1-98b4-640cf50e2a25
     type: content
@@ -61,9 +64,6 @@ navigation:
     type: content
   - name: 'Burgundy Dark Red '
     id: 66b21ee8-84ac-4125-82da-f835e2be7c52
-    type: content
-  - name: Metallic & Pearlized
-    id: 010e6198-d6ce-4020-abed-d63477ff4628
     type: content
   - name: Olive Green
     id: 83d21d30-d477-4bde-ac36-d79a61942322
