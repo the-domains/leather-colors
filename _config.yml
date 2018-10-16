@@ -41,14 +41,14 @@ navigation:
   - name: Red Jellow to Orange
     id: 2c466205-5db2-4f16-a2f8-84032a72769d
     type: content
+  - name: Aqua to Turquoise
+    id: d45d3a8e-f360-4cd1-8a40-5d17f3974063
+    type: content
   - name: Gold Silver Copper Bronze
     id: 84e4ff70-7ddb-4b0d-b641-428ad9dd36fa
     type: content
   - name: Metallic & Pearlized
     id: 010e6198-d6ce-4020-abed-d63477ff4628
-    type: content
-  - name: Aqua to Turquoise
-    id: d45d3a8e-f360-4cd1-8a40-5d17f3974063
     type: content
   - name: Rose Pink Cerise
     id: ee42d976-1bb0-432c-8dcc-1e263a8e479a
