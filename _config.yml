@@ -65,14 +65,14 @@ navigation:
   - name: Brown Beige Shades
     id: 0ca0e4e9-c4e4-47b1-98b4-640cf50e2a25
     type: content
+  - name: Olive Green
+    id: 83d21d30-d477-4bde-ac36-d79a61942322
+    type: content
   - name: Brown
     id: fdb090c9-e384-43a1-86ac-e1a1a59727b4
     type: content
   - name: Beige
     id: 5cdd2133-8312-447e-beee-d80f7a398765
-    type: content
-  - name: Olive Green
-    id: 83d21d30-d477-4bde-ac36-d79a61942322
     type: content
   - name: Green
     id: 92dba23a-887f-4589-988f-d47c9ea18618
