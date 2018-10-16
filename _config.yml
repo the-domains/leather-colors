@@ -65,6 +65,9 @@ navigation:
   - name: 'Burgundy Dark Red '
     id: 66b21ee8-84ac-4125-82da-f835e2be7c52
     type: content
+  - name: Blue
+    id: ebc85082-f97d-4cb5-92b3-52a2ad3cd44a
+    type: content
   - name: Olive Green
     id: 83d21d30-d477-4bde-ac36-d79a61942322
     type: content
@@ -76,9 +79,6 @@ navigation:
     type: content
   - name: Beige
     id: 5cdd2133-8312-447e-beee-d80f7a398765
-    type: content
-  - name: Blue
-    id: ebc85082-f97d-4cb5-92b3-52a2ad3cd44a
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/de997651-73b0-4489-83a1-0ae0d891935a.jpg
