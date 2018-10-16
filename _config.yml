@@ -62,6 +62,9 @@ navigation:
   - name: Beige
     id: 5cdd2133-8312-447e-beee-d80f7a398765
     type: content
+  - name: Lavender Violet to Purple
+    id: 282ba5f7-6ae7-447a-8ce8-d3f136cf2fee
+    type: content
   - name: 'Burgundy Dark Red '
     id: 66b21ee8-84ac-4125-82da-f835e2be7c52
     type: content
@@ -76,9 +79,6 @@ navigation:
     type: content
   - name: Aqua to Turquoise
     id: d45d3a8e-f360-4cd1-8a40-5d17f3974063
-    type: content
-  - name: Lavender Violet to Purple
-    id: 282ba5f7-6ae7-447a-8ce8-d3f136cf2fee
     type: content
   - name: Rose Pink Cerise
     id: ee42d976-1bb0-432c-8dcc-1e263a8e479a
