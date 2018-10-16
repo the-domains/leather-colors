@@ -50,6 +50,9 @@ navigation:
   - name: Rose Pink Cerise
     id: ee42d976-1bb0-432c-8dcc-1e263a8e479a
     type: content
+  - name: Beige
+    id: 5cdd2133-8312-447e-beee-d80f7a398765
+    type: content
   - name: Gold Silver Copper Bronze
     id: 84e4ff70-7ddb-4b0d-b641-428ad9dd36fa
     type: content
@@ -61,9 +64,6 @@ navigation:
     type: content
   - name: Brown Beige Shades
     id: 0ca0e4e9-c4e4-47b1-98b4-640cf50e2a25
-    type: content
-  - name: Beige
-    id: 5cdd2133-8312-447e-beee-d80f7a398765
     type: content
   - name: Dark Antique Brown
     id: de124aac-bf1d-4088-9536-a9663205d3e1
