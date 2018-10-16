@@ -50,6 +50,9 @@ navigation:
   - name: White Black to Gray
     id: 0ba10b2f-90e2-4a50-9cad-5f73e7d96eae
     type: content
+  - name: Lavender Violet to Purple
+    id: 282ba5f7-6ae7-447a-8ce8-d3f136cf2fee
+    type: content
   - name: Dark Antique Brown
     id: de124aac-bf1d-4088-9536-a9663205d3e1
     type: content
@@ -61,9 +64,6 @@ navigation:
     type: content
   - name: Beige
     id: 5cdd2133-8312-447e-beee-d80f7a398765
-    type: content
-  - name: Lavender Violet to Purple
-    id: 282ba5f7-6ae7-447a-8ce8-d3f136cf2fee
     type: content
   - name: 'Burgundy Dark Red '
     id: 66b21ee8-84ac-4125-82da-f835e2be7c52
