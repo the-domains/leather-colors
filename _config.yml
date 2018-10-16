@@ -29,9 +29,6 @@ navigation:
   - name: CONTACT
     id: a7ad57b8-724c-4726-99dd-c8f32fd79c1c
     type: content
-  - name: MiiCrafts
-    id: 71048f0d-628a-4c66-86d4-323c805c0ffb
-    type: content
   - name: Showroom
     id: 8b55000f-6f00-41c5-9934-28d100625e7c
     type: content
