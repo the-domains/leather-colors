@@ -38,11 +38,11 @@ navigation:
   - name: Blue
     id: ebc85082-f97d-4cb5-92b3-52a2ad3cd44a
     type: content
-  - name: Lavender Violet to Purple
-    id: 282ba5f7-6ae7-447a-8ce8-d3f136cf2fee
-    type: content
   - name: Beige
     id: 5cdd2133-8312-447e-beee-d80f7a398765
+    type: content
+  - name: Lavender Violet to Purple
+    id: 282ba5f7-6ae7-447a-8ce8-d3f136cf2fee
     type: content
   - name: Red Jellow to Orange
     id: 2c466205-5db2-4f16-a2f8-84032a72769d
