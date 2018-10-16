@@ -41,11 +41,11 @@ navigation:
   - name: LEATHER CORD
     id: ede3f5d8-2cbb-460f-a5cb-c364dd17f93b
     type: content
-  - name: White Black to Gray
-    id: 0ba10b2f-90e2-4a50-9cad-5f73e7d96eae
-    type: content
   - name: Gold Silver Copper Bronze
     id: 84e4ff70-7ddb-4b0d-b641-428ad9dd36fa
+    type: content
+  - name: White Black to Gray
+    id: 0ba10b2f-90e2-4a50-9cad-5f73e7d96eae
     type: content
   - name: Dark Antique Brown
     id: de124aac-bf1d-4088-9536-a9663205d3e1
