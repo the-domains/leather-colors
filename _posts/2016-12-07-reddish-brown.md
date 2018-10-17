@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-07-14T10:11:52.495Z'
+datePublished: '2018-10-17T16:57:21.927Z'
 sourcePath: _posts/2016-12-07-reddish-brown.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-07-14T10:11:46.206Z'
+dateModified: '2018-10-17T16:57:20.425Z'
 title: Brown
 publisher: {}
 description: >-
@@ -70,6 +70,6 @@ Dark ANTIQUE BROWN
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04a2833e-fe60-4153-acbb-bce64d0ffb4f.jpg)
 
 # ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a22abd5-8d20-4960-a1c9-fadcfbe3d192.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0062be92-a4d2-44b1-9228-4758f692bd77.jpg)
 
 # ---
