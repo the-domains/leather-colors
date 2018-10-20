@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-11-11T11:38:40.068Z'
+datePublished: '2018-10-20T15:50:27.158Z'
 sourcePath: _posts/2016-11-30-blue-to-aqua.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-11-11T11:38:37.687Z'
+dateModified: '2018-10-20T15:50:25.884Z'
 title: Blue
 publisher: {}
 description: >-
@@ -68,3 +68,7 @@ Light BLUE // JEANS BLUE // NAVY BLUE // BLUE
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6a91668-7921-4432-8b39-086430dae7e2.jpg)
 
 # ---
+
+<button data-role="cta" style="">Open</button>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/453f4620-537e-48e7-87f5-736c14705468.jpg)
