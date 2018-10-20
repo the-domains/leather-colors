@@ -47,14 +47,14 @@ navigation:
   - name: Dark Antique Brown
     id: de124aac-bf1d-4088-9536-a9663205d3e1
     type: content
+  - name: 'Burgundy Dark Red '
+    id: 66b21ee8-84ac-4125-82da-f835e2be7c52
+    type: content
   - name: Lavender Violet to Purple
     id: 282ba5f7-6ae7-447a-8ce8-d3f136cf2fee
     type: content
   - name: Red Jellow to Orange
     id: 2c466205-5db2-4f16-a2f8-84032a72769d
-    type: content
-  - name: 'Burgundy Dark Red '
-    id: 66b21ee8-84ac-4125-82da-f835e2be7c52
     type: content
   - name: Rose Pink Cerise
     id: ee42d976-1bb0-432c-8dcc-1e263a8e479a
