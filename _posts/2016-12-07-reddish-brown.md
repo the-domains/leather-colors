@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-20T13:02:03.052Z'
+datePublished: '2018-10-20T13:02:20.004Z'
 sourcePath: _posts/2016-12-07-reddish-brown.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-20T13:02:02.305Z'
+dateModified: '2018-10-20T13:02:18.948Z'
 title: Brown
 publisher: {}
 description: >-
@@ -35,7 +35,6 @@ BROWN
 
 BROWN - Pearlized
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17d8f3e8-2081-407a-8adc-2ce26138c03e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8012ee02-a08f-4f0d-affc-1a3c4e7f2137.jpg)
 
 # ---
 
