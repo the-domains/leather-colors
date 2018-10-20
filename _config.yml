@@ -53,6 +53,9 @@ navigation:
   - name: Beige
     id: 5cdd2133-8312-447e-beee-d80f7a398765
     type: content
+  - name: Red Jellow to Orange
+    id: 2c466205-5db2-4f16-a2f8-84032a72769d
+    type: content
   - name: Blue
     id: ebc85082-f97d-4cb5-92b3-52a2ad3cd44a
     type: content
@@ -64,9 +67,6 @@ navigation:
     type: content
   - name: Aqua to Turquoise
     id: d45d3a8e-f360-4cd1-8a40-5d17f3974063
-    type: content
-  - name: Red Jellow to Orange
-    id: 2c466205-5db2-4f16-a2f8-84032a72769d
     type: content
   - name: White Black to Gray
     id: 0ba10b2f-90e2-4a50-9cad-5f73e7d96eae
