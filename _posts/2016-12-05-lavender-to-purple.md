@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-11-11T12:20:02.605Z'
+datePublished: '2018-10-20T16:16:39.104Z'
 sourcePath: _posts/2016-12-05-lavender-to-purple.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-11-11T12:20:01.385Z'
+dateModified: '2018-10-20T16:16:35.041Z'
 title: Lavender Violet to Purple
 publisher: {}
 description: >-
@@ -73,3 +73,7 @@ PLUM - Metallic
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f295b322-90d6-44d1-b804-338e8f4f23fa.jpg)
 
 # ---
+
+<button data-role="cta" style="">Open</button>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0913fb20-a960-466a-a2c1-ab9a6da821f9.jpg)
