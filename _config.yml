@@ -53,6 +53,9 @@ navigation:
   - name: Blue
     id: ebc85082-f97d-4cb5-92b3-52a2ad3cd44a
     type: content
+  - name: Lavender Violet to Purple
+    id: 282ba5f7-6ae7-447a-8ce8-d3f136cf2fee
+    type: content
   - name: Olive Green
     id: 83d21d30-d477-4bde-ac36-d79a61942322
     type: content
@@ -64,9 +67,6 @@ navigation:
     type: content
   - name: Red Jellow to Orange
     id: 2c466205-5db2-4f16-a2f8-84032a72769d
-    type: content
-  - name: Lavender Violet to Purple
-    id: 282ba5f7-6ae7-447a-8ce8-d3f136cf2fee
     type: content
   - name: White Black to Gray
     id: 0ba10b2f-90e2-4a50-9cad-5f73e7d96eae
