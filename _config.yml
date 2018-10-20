@@ -35,14 +35,14 @@ navigation:
   - name: LEATHER CORD
     id: ede3f5d8-2cbb-460f-a5cb-c364dd17f93b
     type: content
-  - name: Blue
-    id: ebc85082-f97d-4cb5-92b3-52a2ad3cd44a
-    type: content
   - name: Beige
     id: 5cdd2133-8312-447e-beee-d80f7a398765
     type: content
   - name: Brown
     id: fdb090c9-e384-43a1-86ac-e1a1a59727b4
+    type: content
+  - name: Blue
+    id: ebc85082-f97d-4cb5-92b3-52a2ad3cd44a
     type: content
   - name: Green
     id: 92dba23a-887f-4589-988f-d47c9ea18618
