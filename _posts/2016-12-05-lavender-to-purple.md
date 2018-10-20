@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-20T16:16:39.621Z'
+datePublished: '2018-10-20T16:18:22.829Z'
 sourcePath: _posts/2016-12-05-lavender-to-purple.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-20T16:16:38.754Z'
+dateModified: '2018-10-20T16:18:20.853Z'
 title: Lavender Violet to Purple
 publisher: {}
 description: >-
@@ -73,7 +73,7 @@ PLUM - Metallic
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f295b322-90d6-44d1-b804-338e8f4f23fa.jpg)
 
 # ---
-
-<button data-role="cta" style="">Open</button>
-
+[back to top][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0913fb20-a960-466a-a2c1-ab9a6da821f9.jpg)
+
+[0]: https://thegrid.ai/leather-colors/lavender-lilac-to-purple/
