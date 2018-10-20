@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-10-20T17:16:02.721Z'
-datePublished: '2018-10-20T17:16:05.354Z'
+dateModified: '2018-10-20T17:21:52.997Z'
+datePublished: '2018-10-20T17:21:55.182Z'
 title: Leather CORD
 author: []
 publisher: {}
@@ -118,7 +118,6 @@ GREEN metallic // Dark GREEN // Light GREEN // AQUA GREEN metallic // LIME GREEN
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c4a5d58-a9ed-4780-b34d-64f274bb012b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7cc9c6a-cdea-4ddf-a9ee-7ed207c04e7b.jpg)
 [back to top][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed112bfb-71ca-4c07-a9da-27508463817d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6453a523-416b-49d8-a0c9-700f62ac76cf.jpg)
 
 [0]: https://thegrid.ai/leather-colors/leather-cord/
