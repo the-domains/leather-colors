@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-11-11T12:00:27.440Z'
+datePublished: '2018-10-20T12:18:03.529Z'
 sourcePath: _posts/2016-11-30-white-black-gray.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-11-11T12:00:25.770Z'
+dateModified: '2018-10-20T12:18:01.675Z'
 title: White Black to Gray
 publisher: {}
 description: >-
@@ -97,5 +97,7 @@ Black
 
 White // Off White // Light Gray // Gray // dark Gray // Black
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8bc0568-6602-43fb-971f-db28f726ad5c.jpg)
+[back to top][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3322d556-df22-4f31-92c3-ad1bd61904aa.jpg)
 
-# ---
+[0]: https://thegrid.ai/leather-colors/white-black-to-gray
