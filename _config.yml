@@ -41,14 +41,14 @@ navigation:
   - name: Metallic & Pearlized
     id: 010e6198-d6ce-4020-abed-d63477ff4628
     type: content
+  - name: White Black to Gray
+    id: 0ba10b2f-90e2-4a50-9cad-5f73e7d96eae
+    type: content
   - name: Lavender Violet to Purple
     id: 282ba5f7-6ae7-447a-8ce8-d3f136cf2fee
     type: content
   - name: Red Jellow to Orange
     id: 2c466205-5db2-4f16-a2f8-84032a72769d
-    type: content
-  - name: White Black to Gray
-    id: 0ba10b2f-90e2-4a50-9cad-5f73e7d96eae
     type: content
   - name: Rose Pink Cerise
     id: ee42d976-1bb0-432c-8dcc-1e263a8e479a
