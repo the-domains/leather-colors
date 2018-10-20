@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-20T15:53:03.079Z'
+datePublished: '2018-10-20T15:59:31.793Z'
 sourcePath: _posts/2016-12-07-all-metallic-and.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-20T15:53:01.232Z'
+dateModified: '2018-10-20T15:59:30.205Z'
 title: Metallic & Pearlized
 publisher: {}
 description: >-
@@ -77,6 +77,7 @@ BROWN - Pearlized
 # ---
 
 AMETHYST - Pearlized
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75173ae1-0f1c-43f3-9490-cbda13604d2f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8355eda-9942-4076-9123-ad55c6daf3d3.jpg)
 
 # ---
@@ -115,5 +116,7 @@ SILVER Metallic
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86035760-3ebe-4e31-98f7-c3378f2b20d5.jpg)
 
 # ---
+[back to top][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ee962aa-91b9-43c6-be29-19b792edcc04.jpg)
 
-<button data-role="cta" style="">Open</button>
+[0]: https://thegrid.ai/leather-colors/metallic-and-pearlized/
