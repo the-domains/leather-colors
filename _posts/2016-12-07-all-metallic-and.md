@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-07-14T12:13:10.368Z'
+datePublished: '2018-10-20T15:53:03.079Z'
 sourcePath: _posts/2016-12-07-all-metallic-and.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-07-14T12:13:08.637Z'
+dateModified: '2018-10-20T15:53:01.232Z'
 title: Metallic & Pearlized
 publisher: {}
 description: >-
@@ -115,3 +115,5 @@ SILVER Metallic
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86035760-3ebe-4e31-98f7-c3378f2b20d5.jpg)
 
 # ---
+
+<button data-role="cta" style="">Open</button>
