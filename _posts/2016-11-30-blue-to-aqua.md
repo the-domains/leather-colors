@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-20T15:50:27.158Z'
+datePublished: '2018-10-20T15:51:50.545Z'
 sourcePath: _posts/2016-11-30-blue-to-aqua.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-20T15:50:25.884Z'
+dateModified: '2018-10-20T15:51:49.216Z'
 title: Blue
 publisher: {}
 description: >-
@@ -68,7 +68,7 @@ Light BLUE // JEANS BLUE // NAVY BLUE // BLUE
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6a91668-7921-4432-8b39-086430dae7e2.jpg)
 
 # ---
-
-<button data-role="cta" style="">Open</button>
-
+[back to top][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/453f4620-537e-48e7-87f5-736c14705468.jpg)
+
+[0]: https://thegrid.ai/leather-colors/blue/
