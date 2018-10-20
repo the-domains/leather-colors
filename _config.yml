@@ -38,6 +38,9 @@ navigation:
   - name: Gold Silver Copper Bronze
     id: 84e4ff70-7ddb-4b0d-b641-428ad9dd36fa
     type: content
+  - name: METALLIC & PEARLIZED
+    id: 010e6198-d6ce-4020-abed-d63477ff4628
+    type: content
   - name: Beige
     id: 5cdd2133-8312-447e-beee-d80f7a398765
     type: content
@@ -46,9 +49,6 @@ navigation:
     type: content
   - name: Blue
     id: ebc85082-f97d-4cb5-92b3-52a2ad3cd44a
-    type: content
-  - name: METALLIC & PEARLIZED
-    id: 010e6198-d6ce-4020-abed-d63477ff4628
     type: content
   - name: Green
     id: 92dba23a-887f-4589-988f-d47c9ea18618
