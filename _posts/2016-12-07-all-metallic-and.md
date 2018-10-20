@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-20T16:01:46.524Z'
+datePublished: '2018-10-20T16:05:01.710Z'
 sourcePath: _posts/2016-12-07-all-metallic-and.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-20T16:01:44.183Z'
+dateModified: '2018-10-20T16:04:56.058Z'
 title: Metallic & Pearlized
 publisher: {}
 description: >-
@@ -77,7 +77,6 @@ BROWN - Pearlized
 # ---
 
 AMETHYST - Pearlized
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75173ae1-0f1c-43f3-9490-cbda13604d2f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8355eda-9942-4076-9123-ad55c6daf3d3.jpg)
 
 # ---
@@ -103,6 +102,7 @@ TURQUOISE BLUE - Pearlized
 # ---
 
 Dark GREEN - Pearlized
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/836e6498-7940-4464-83a0-e3a77c2264d2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c88b4a6f-9cff-4eda-8e32-c67bc0cdc526.jpg)
 
 # ---
@@ -116,7 +116,6 @@ SILVER Metallic
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86035760-3ebe-4e31-98f7-c3378f2b20d5.jpg)
 
 # ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/836e6498-7940-4464-83a0-e3a77c2264d2.jpg)
 [back to top][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ee962aa-91b9-43c6-be29-19b792edcc04.jpg)
 
