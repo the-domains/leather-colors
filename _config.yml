@@ -26,7 +26,7 @@ navigation:
   - name: RETURN to LGsamiCrafts
     url: 'https://thegrid.ai/lgsamicrafts/'
     type: external
-  - name: CONTACT
+  - name: Contact
     id: a7ad57b8-724c-4726-99dd-c8f32fd79c1c
     type: content
   - name: SHOWRooM
