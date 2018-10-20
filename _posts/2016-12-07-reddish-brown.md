@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-20T13:04:02.775Z'
+datePublished: '2018-10-20T13:19:37.447Z'
 sourcePath: _posts/2016-12-07-reddish-brown.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-20T13:04:01.440Z'
+dateModified: '2018-10-20T13:19:35.446Z'
 title: Brown
 publisher: {}
 description: >-
@@ -76,4 +76,4 @@ Dark ANTIQUE BROWN
 [back to top][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a4157ee-8a1f-4824-ad8c-934684fe6ff5.jpg)
 
-[0]: https://thegrid.ai/leather-colors/brown/
+[0]: https://thegrid.ai/leather-colors/reddish-brown/
