@@ -53,6 +53,9 @@ navigation:
   - name: Rose Pink Cerise
     id: ee42d976-1bb0-432c-8dcc-1e263a8e479a
     type: content
+  - name: Dark Antique Brown
+    id: de124aac-bf1d-4088-9536-a9663205d3e1
+    type: content
   - name: Aqua to Turquoise
     id: d45d3a8e-f360-4cd1-8a40-5d17f3974063
     type: content
@@ -61,9 +64,6 @@ navigation:
     type: content
   - name: Green
     id: 92dba23a-887f-4589-988f-d47c9ea18618
-    type: content
-  - name: Dark Antique Brown
-    id: de124aac-bf1d-4088-9536-a9663205d3e1
     type: content
   - name: Brown
     id: fdb090c9-e384-43a1-86ac-e1a1a59727b4
