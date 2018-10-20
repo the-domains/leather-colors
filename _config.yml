@@ -56,6 +56,9 @@ navigation:
   - name: Olive Green
     id: 83d21d30-d477-4bde-ac36-d79a61942322
     type: content
+  - name: White Black to Gray
+    id: 0ba10b2f-90e2-4a50-9cad-5f73e7d96eae
+    type: content
   - name: Green
     id: 92dba23a-887f-4589-988f-d47c9ea18618
     type: content
@@ -67,9 +70,6 @@ navigation:
     type: content
   - name: Blue
     id: ebc85082-f97d-4cb5-92b3-52a2ad3cd44a
-    type: content
-  - name: White Black to Gray
-    id: 0ba10b2f-90e2-4a50-9cad-5f73e7d96eae
     type: content
   - name: Brown Beige Shades
     id: 0ca0e4e9-c4e4-47b1-98b4-640cf50e2a25
