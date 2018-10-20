@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-20T13:52:20.261Z'
+datePublished: '2018-10-20T13:52:20.878Z'
 sourcePath: _posts/2016-12-07-reddish-brown.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-20T13:52:17.102Z'
+dateModified: '2018-10-20T13:52:20.141Z'
 title: Brown
 publisher: {}
 description: >-
@@ -30,13 +30,11 @@ The settings of your computer screen may alter color of the pictures shown below
 
 BROWN
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bb686df-09d8-4e8b-8930-889ee89c7d10.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2305d001-18b7-4fda-9645-bfcdc231b306.jpg)
 
 # ---
 
 BROWN - Pearlized
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3a94cd7-fc59-430d-a685-af319ae4ec22.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17d8f3e8-2081-407a-8adc-2ce26138c03e.jpg)
 
 # ---
 
