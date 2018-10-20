@@ -47,14 +47,14 @@ navigation:
   - name: Red Jellow to Orange
     id: 2c466205-5db2-4f16-a2f8-84032a72769d
     type: content
+  - name: Rose Pink Cerise
+    id: ee42d976-1bb0-432c-8dcc-1e263a8e479a
+    type: content
   - name: Green
     id: 92dba23a-887f-4589-988f-d47c9ea18618
     type: content
   - name: Brown
     id: fdb090c9-e384-43a1-86ac-e1a1a59727b4
-    type: content
-  - name: Rose Pink Cerise
-    id: ee42d976-1bb0-432c-8dcc-1e263a8e479a
     type: content
   - name: Beige
     id: 5cdd2133-8312-447e-beee-d80f7a398765
