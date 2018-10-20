@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-20T16:05:01.710Z'
+datePublished: '2018-10-20T16:06:23.072Z'
 sourcePath: _posts/2016-12-07-all-metallic-and.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-20T16:04:56.058Z'
+dateModified: '2018-10-20T16:06:21.481Z'
 title: Metallic & Pearlized
 publisher: {}
 description: >-
@@ -103,7 +103,6 @@ TURQUOISE BLUE - Pearlized
 
 Dark GREEN - Pearlized
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/836e6498-7940-4464-83a0-e3a77c2264d2.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c88b4a6f-9cff-4eda-8e32-c67bc0cdc526.jpg)
 
 # ---
 
