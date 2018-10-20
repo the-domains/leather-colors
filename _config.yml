@@ -50,6 +50,9 @@ navigation:
   - name: 'Burgundy Dark Red '
     id: 66b21ee8-84ac-4125-82da-f835e2be7c52
     type: content
+  - name: Brown Beige Shades
+    id: 0ca0e4e9-c4e4-47b1-98b4-640cf50e2a25
+    type: content
   - name: Lavender Violet to Purple
     id: 282ba5f7-6ae7-447a-8ce8-d3f136cf2fee
     type: content
@@ -58,9 +61,6 @@ navigation:
     type: content
   - name: Rose Pink Cerise
     id: ee42d976-1bb0-432c-8dcc-1e263a8e479a
-    type: content
-  - name: Brown Beige Shades
-    id: 0ca0e4e9-c4e4-47b1-98b4-640cf50e2a25
     type: content
   - name: Aqua to Turquoise
     id: d45d3a8e-f360-4cd1-8a40-5d17f3974063
