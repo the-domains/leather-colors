@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-20T13:52:20.878Z'
+datePublished: '2018-10-20T13:53:02.553Z'
 sourcePath: _posts/2016-12-07-reddish-brown.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-20T13:52:20.141Z'
+dateModified: '2018-10-20T13:53:01.271Z'
 title: Brown
 publisher: {}
 description: >-
@@ -18,7 +18,7 @@ _type: Article
 
 ---
 # Brown
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e71dbc5f-32f2-4e9d-a1ee-2673b698f9fb.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/315144b6-672d-42a8-9ee5-1cd74eb486d1.jpg)
 
 // BROWN // BROWN pearlized // CHOCO BROWN pearlized // LATTE BROWN // BRONZE BROWN metallic // BROWN BEIGE // Dark ANTIQUE BROWN //
 
@@ -44,6 +44,7 @@ Choco BROWN - Pearlized
 # ---
 
 Bown // Brown- pearlized // Choco Brown- pearlized
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8efe7f11-7f18-4b7a-8c9f-84e73354aebb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a90c5db1-b6e7-4984-b7ec-72f7449045e4.jpg)
 
 # ---
@@ -75,7 +76,5 @@ Dark ANTIQUE BROWN
 # ---
 [back to top][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a4157ee-8a1f-4824-ad8c-934684fe6ff5.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8efe7f11-7f18-4b7a-8c9f-84e73354aebb.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/315144b6-672d-42a8-9ee5-1cd74eb486d1.jpg)
 
 [0]: https://thegrid.ai/leather-colors/reddish-brown/
