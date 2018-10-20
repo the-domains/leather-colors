@@ -35,11 +35,11 @@ navigation:
   - name: LEATHER CORD
     id: ede3f5d8-2cbb-460f-a5cb-c364dd17f93b
     type: content
-  - name: Beige
-    id: 5cdd2133-8312-447e-beee-d80f7a398765
-    type: content
   - name: Gold Silver Copper Bronze
     id: 84e4ff70-7ddb-4b0d-b641-428ad9dd36fa
+    type: content
+  - name: Beige
+    id: 5cdd2133-8312-447e-beee-d80f7a398765
     type: content
   - name: Brown
     id: fdb090c9-e384-43a1-86ac-e1a1a59727b4
