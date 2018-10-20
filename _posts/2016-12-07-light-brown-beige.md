@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-07-14T12:16:52.866Z'
+datePublished: '2018-10-20T16:28:57.556Z'
 sourcePath: _posts/2016-12-07-light-brown-beige.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-07-14T12:16:50.868Z'
+dateModified: '2018-10-20T16:28:56.750Z'
 title: Beige
 publisher: {}
 description: // BEIGE pearlized //BEIGE // Light BEIGE pearlized // CREAM // BROWN BEIGE //
@@ -60,3 +60,7 @@ BEIGE Pearlized // BEIGE // Light BEIGE Pearlized
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c19cd17-a383-46a0-a8a2-072b8f8148c5.jpg)
 
 # ---
+[back to top][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/923c1e9e-5ace-4683-a12d-2a8cf3c847cc.jpg)
+
+[0]: https://thegrid.ai/leather-colors/beige/
