@@ -29,6 +29,9 @@ navigation:
   - name: CONTACT
     id: a7ad57b8-724c-4726-99dd-c8f32fd79c1c
     type: content
+  - name: SHOWRooM
+    id: f1c970e7-3a43-4863-914d-67db3c3ba19f
+    type: content
   - name: LEATHER CORD
     id: ede3f5d8-2cbb-460f-a5cb-c364dd17f93b
     type: content
@@ -40,9 +43,6 @@ navigation:
     type: content
   - name: White Black to Gray
     id: 0ba10b2f-90e2-4a50-9cad-5f73e7d96eae
-    type: content
-  - name: SHOWRooM
-    id: f1c970e7-3a43-4863-914d-67db3c3ba19f
     type: content
   - name: Brown Beige Shades
     id: 0ca0e4e9-c4e4-47b1-98b4-640cf50e2a25
