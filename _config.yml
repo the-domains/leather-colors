@@ -41,6 +41,9 @@ navigation:
   - name: White Black to Gray
     id: 0ba10b2f-90e2-4a50-9cad-5f73e7d96eae
     type: content
+  - name: SHOWRooM
+    id: f1c970e7-3a43-4863-914d-67db3c3ba19f
+    type: content
   - name: Brown Beige Shades
     id: 0ca0e4e9-c4e4-47b1-98b4-640cf50e2a25
     type: content
@@ -58,9 +61,6 @@ navigation:
     type: content
   - name: Aqua to Turquoise
     id: d45d3a8e-f360-4cd1-8a40-5d17f3974063
-    type: content
-  - name: SHOWRooM
-    id: f1c970e7-3a43-4863-914d-67db3c3ba19f
     type: content
   - name: Rose Pink Cerise
     id: ee42d976-1bb0-432c-8dcc-1e263a8e479a
