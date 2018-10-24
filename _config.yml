@@ -29,9 +29,6 @@ navigation:
   - name: CONTACT
     id: a7ad57b8-724c-4726-99dd-c8f32fd79c1c
     type: content
-  - name: SHOWRooM
-    id: 8b55000f-6f00-41c5-9934-28d100625e7c
-    type: content
   - name: LEATHER CORD
     id: ede3f5d8-2cbb-460f-a5cb-c364dd17f93b
     type: content
