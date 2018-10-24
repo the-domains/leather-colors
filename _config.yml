@@ -77,6 +77,9 @@ navigation:
   - name: Blue
     id: ebc85082-f97d-4cb5-92b3-52a2ad3cd44a
     type: content
+  - name: SHOWRooM
+    id: f1c970e7-3a43-4863-914d-67db3c3ba19f
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/de997651-73b0-4489-83a1-0ae0d891935a.jpg
 title: LGsamiCrafts
